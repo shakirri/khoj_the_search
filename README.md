@@ -1,6 +1,6 @@
 # khoj_the_search
 This contains User Authentication/Registration Page, Khoj the search Page, API Endpoints:
-download the repository
+download the repository   |.
 install python and pip in your setup  |.
 create a virtual environment via python -m venv venv   |.
 use the environment with cmd via venv\Scripts\activate.bat    |.
@@ -13,7 +13,7 @@ pip install djangorestframework  |.
 ------------------------------
 move to directory khoj_the_search in cmd
 --------------------
-migrate the db using 
+migrate the db using     |.
 python manage.py makemigrations   |.
 python manage.py migrate    |.
 -----------------------
